@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App_hero {
+  background-image: url('../../comi_m.png');
+  background-size: cover;
+  background-position: center;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 100px 20px;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 85%;
+}
+
+.App_cta {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: orange;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+section {
+  margin-top: 40px;
+}
+
+h2 {
+  color: #282c34;
+}
+
+footer {
+  margin-top: 40px;
+}
